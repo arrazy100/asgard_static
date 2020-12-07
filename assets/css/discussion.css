@@ -77,7 +77,7 @@
   width: 33px;
 }
 
-.messaging { padding: 0 0 50px 0;}
+.messaging { padding: 0 0 50px 0; width: 100%; }
 
 .msg_history {
   position: absolute;
