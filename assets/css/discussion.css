@@ -41,7 +41,7 @@
   width:100%;
 }
 
-.outgoing_msg{ overflow:hidden; margin:26px 0 26px; margin-right: 26px;}
+.outgoing_msg{ overflow:hidden; margin:26px 0 26px; margin-right: 26px; float: right;}
 
 .sent_msg {
   float: right;
