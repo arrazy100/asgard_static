@@ -12,6 +12,8 @@
 	height: 40px;
 }
 
+.container{max-width:1170px; margin:auto;}
+
 .incoming_msg_img {
   display: inline-block;
   width: 6%;
