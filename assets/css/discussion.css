@@ -57,6 +57,10 @@
   width: 100%;
 }
 
+.input_msg_write input:focus {
+  outline-width: 0;
+}
+
 .type_msg {border-top: 1px solid #c4c4c4;position: relative; margin-top: 50vh;}
 
 .msg_send_btn {
