@@ -57,7 +57,7 @@
   width: 100%;
 }
 
-.type_msg {border-top: 1px solid #c4c4c4;position: relative;}
+.type_msg {border-top: 1px solid #c4c4c4;position: relative; margin-top: 50vh;}
 
 .msg_send_btn {
   background: #05728f none repeat scroll 0 0;
@@ -76,6 +76,7 @@
 .messaging { padding: 0 0 50px 0;}
 
 .msg_history {
+  position: absolute;
   height: 50%;
   overflow-y: auto;
 }
